@@ -1,7 +1,7 @@
 import React from "react";
-import { Switch, Route, Redirect } from "react-router-dom";
+import { Route } from "react-router-dom";
 
-import { connect } from "react-redux";
+// import { connect } from "react-redux";
 import CollectionPage from "../collection/collection.component";
 import CollectionsOverview from "../../components/collections-overview/collections-overview.component";
 
